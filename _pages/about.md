@@ -25,14 +25,16 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I'm a Ph.D. candidate in Information Science at Cornell University advised by [René F. Kizilcec](https://rene.kizilcec.com){:target="_blank"} in the [Future of Learning Lab](https://learning.cis.cornell.edu/){:target="_blank"} and [Thorsten Joachims](https://www.cs.cornell.edu/people/tj){:target="_blank"}. My research studies socio-technical systems in education through the lens of computational social science, focusing on how AI technologies influence evaluation, decision-making, and equity in high-stakes contexts. 
+I'm a Ph.D. candidate in Information Science at Cornell University, advised by [René F. Kizilcec](https://rene.kizilcec.com){:target="_blank"} in the [Future of Learning Lab](https://learning.cis.cornell.edu/){:target="_blank"} and [Thorsten Joachims](https://www.cs.cornell.edu/people/tj){:target="_blank"} with [Nikhil Garg](https://gargnikhil.com){:target="_blank"} on committee. \\
 
-At Cornell, I study how language models influence college admissions both directly through applicants' use of LLMs in essay writing, and indirectly, through how institutions interpret and act on these AI-mediated signals. My recent work analyzes (1) how policy shifts and the rise of LLM-assisted writing reconfigure the allocation of educational opportunities; (2) how LLMs write differently in terms of lexical diversity, semantic space and stylistic homogenization in college essays; and (3) how uncertainty and arbitrariness manifest in algorithmic predictions within admissions.
+My research examines sociotechnical systems in education. My goal is to develop and evaluate responsible AI that supports an equitable society where future generations can thrive safely.
 
-Beyond admissions, I am also developing AI evaluation pipelines for tutoring data in collaboration with [National Tutoring Observatory](https://nationaltutoringobservatory.org){:target="_blank"} spanning multi-agent orchestration, and dialogue segmentation to enhance tutoring move annotation. 
+* Socio-technical alignment: I study how AI systems can be designed and evaluated to align with the social contexts and institutional norms in which they operate, examining the gap between technical capabilities and societal needs.\\
+* Societal impact of AI systems: I study how AI technologies reshape decision-making processes in high-stakes settings. I have been working on how college application essay writing is changing and its relationship with admissions outcomes across socioeconomic status.\\
+* AI agent evaluation and responsible deployment: I explore what current agents are good and bad at, and how we can improve them responsibly. I examine the potential capabilities of state-of-the-art AI models and develop frameworks for incorporating them into practice while maintaining accountability and addressing fairness concerns.\\
 
-I'm also fortunate to collaborate with [Nikhil Garg](https://gargnikhil.com){:target="_blank"} and [AJ Alvero](https://ajalvero.com){:target="_blank"}.   
+I'm also fortunate to collaborate with [National Tutoring Observatory](https://nationaltutoringobservatory.org){:target="_blank"}, and [AJ Alvero](https://ajalvero.com){:target="_blank"}.   
 
 Prior to Cornell, I spent several years as a data scientist at Korea University to develop course and major recommender systems to support college students' decision making process.
 
-I have a love-hate relationship with tennis — You'll often find me attempting to upgrade my skills from the ‘absolute beginner’ category. I also love listening to music and curating songs! 
+I have a love-hate relationship with tennis — you'll often find me attempting to upgrade my skills from the ‘absolute beginner’ category. I also love listening to music and curating songs! 
