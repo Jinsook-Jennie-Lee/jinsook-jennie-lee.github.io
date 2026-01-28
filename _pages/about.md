@@ -31,7 +31,7 @@ My research examines sociotechnical systems in education. My goal is to develop 
 
 * **Socio-technical alignment**: I study how AI systems can be designed and evaluated to align with the social contexts and institutional norms in which they operate, examining the gap between technical capabilities and societal needs.
 * **Societal impact of AI systems**: I study how AI technologies reshape decision-making processes in high-stakes settings. I have been working on how college application essay writing is changing and its relationship with admissions outcomes across socioeconomic status.
-* **AI agent evaluation and responsible deployment**: I explore what current agents are good and bad at, and how we can improve them responsibly. I examine the potential capabilities of state-of-the-art AI models and develop frameworks for incorporating them into practice while maintaining accountability and addressing fairness concerns.
+* **AI agent evaluation and responsible deployment**: I explore what current agents are good and bad at, and how we can improve them responsibly. I examine the potential capabilities of state-of-the-art AI models and develop frameworks for incorporating them into practice.
 
 Prior to Cornell, I spent several years as a data scientist at Korea University to develop course and major recommender systems to support college students' decision making process.
 
