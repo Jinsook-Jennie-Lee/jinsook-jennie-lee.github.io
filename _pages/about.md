@@ -5,7 +5,7 @@ permalink: /
 subtitle: 
 
 profile:
-  align: left
+  align: right
   image: JinsookLee2025.jpg
   image_circular: False # crops the image to make it circular
   more_info: 
@@ -29,9 +29,32 @@ I'm a Ph.D. candidate in Information Science at Cornell University, advised by [
 
 My research examines sociotechnical systems in education. My goal is to develop and evaluate responsible AI that supports an equitable society where future generations can thrive safely. My main research interests are :
 
-* **Socio-technical alignment**: I study how AI systems can be evaluated and designed to align with the social contexts and institutional norms in which they operate, examining the gap between technical capabilities and societal needs.
-* **Societal impact of AI systems**: I study how AI technologies reshape decision-making processes in high-stakes settings. I have been working on how college application essay writing is changing and its relationship with admissions outcomes across socioeconomic status.
-* **AI agent evaluation and responsible deployment**: I explore what current agents are good and bad at, and how we can improve them responsibly. I examine the potential capabilities of state-of-the-art AI models and develop frameworks for incorporating them into practice.
+<div class="row">
+  <div class="col-sm-12 col-md-4">
+    <div class="card h-100" style="background-color: var(--global-card-bg-color); border: 1px solid var(--global-divider-color);">
+      <div class="card-body">
+        <h5 class="card-title">Socio-technical alignment</h5>
+        <p class="card-text">I study how AI systems can be evaluated and designed to align with the social contexts and institutional norms in which they operate, examining the gap between technical capabilities and societal needs.</p>
+      </div>
+    </div>
+  </div>
+  <div class="col-sm-12 col-md-4">
+    <div class="card h-100" style="background-color: var(--global-card-bg-color); border: 1px solid var(--global-divider-color);">
+      <div class="card-body">
+        <h5 class="card-title">Societal impact of AI systems</h5>
+        <p class="card-text">I study how AI technologies reshape decision-making processes in high-stakes settings. I have been working on how college application essay writing is changing and its relationship with admissions outcomes across socioeconomic status.</p>
+      </div>
+    </div>
+  </div>
+  <div class="col-sm-12 col-md-4">
+    <div class="card h-100" style="background-color: var(--global-card-bg-color); border: 1px solid var(--global-divider-color);">
+      <div class="card-body">
+        <h5 class="card-title">AI agent evaluation and responsible deployment</h5>
+        <p class="card-text">I explore what current agents are good and bad at, and how we can improve them responsibly. I examine the potential capabilities of state-of-the-art AI models and develop frameworks for incorporating them into practice.</p>
+      </div>
+    </div>
+  </div>
+</div>
 
 Prior to Cornell, I spent several years as a data scientist at Korea University to develop course and major recommender systems to support college students' decision making process.
 
