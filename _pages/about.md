@@ -31,25 +31,25 @@ My research examines sociotechnical systems in education. My goal is to develop 
 
 <div class="row mt-4 mb-4">
   <div class="col-12 mb-2">
-    <div class="card" style="background-color: #333333; color: white; border: 1px solid var(--global-divider-color);">
+    <div class="card" style="background-color: transparent; border: 1px solid var(--global-divider-color);">
       <div class="card-body p-3">
-        <h5 class="card-title" style="font-size: 1.1rem; color: white;">Socio-technical alignment</h5>
+        <h5 class="card-title" style="font-size: 1.1rem;">Socio-technical alignment</h5>
         <p class="card-text">I study how AI systems can be evaluated and designed to align with the social contexts and institutional norms in which they operate, examining the gap between technical capabilities and societal needs.</p>
       </div>
     </div>
   </div>
   <div class="col-12 mb-2">
-    <div class="card" style="background-color: #333333; color: white; border: 1px solid var(--global-divider-color);">
+    <div class="card" style="background-color: transparent; border: 1px solid var(--global-divider-color);">
       <div class="card-body p-3">
-        <h5 class="card-title" style="font-size: 1.1rem; color: white;">Societal impact of AI systems</h5>
+        <h5 class="card-title" style="font-size: 1.1rem;">Societal impact of AI systems</h5>
         <p class="card-text">I study how AI technologies reshape decision-making processes in high-stakes settings. I have been working on how college application essay writing is changing and its relationship with admissions outcomes across socioeconomic status.</p>
       </div>
     </div>
   </div>
   <div class="col-12 mb-2">
-    <div class="card" style="background-color: #333333; color: white; border: 1px solid var(--global-divider-color);">
+    <div class="card" style="background-color: transparent; border: 1px solid var(--global-divider-color);">
       <div class="card-body p-3">
-        <h5 class="card-title" style="font-size: 1.1rem; color: white;">AI agent evaluation and responsible deployment</h5>
+        <h5 class="card-title" style="font-size: 1.1rem;">AI agent evaluation and responsible deployment</h5>
         <p class="card-text">I explore what current agents are good and bad at, and how we can improve them responsibly. I examine the potential capabilities of state-of-the-art AI models and develop frameworks for incorporating them into practice.</p>
       </div>
     </div>
