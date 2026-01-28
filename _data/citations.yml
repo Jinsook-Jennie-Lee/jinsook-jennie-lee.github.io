@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2025-12-19'
+  last_updated: '2026-01-21'
 papers:
   6ZU8WIEAAAAJ:2osOgNQ5qMEC:
     citations: 4
     title: "\uD611\uC5C5\uD544\uD130\uB9C1\uC744 \uD65C\uC6A9\uD55C \uB300\uD559 \uAD50\uC591\uACFC\uBAA9 \uCD94\uCC9C \uC2DC\uC2A4\uD15C"
     year: '2020'
   6ZU8WIEAAAAJ:9yKSN-GCB0IC:
-    citations: 12
+    citations: 13
     title: 'Development and application of an AI-Powered adaptive course recommender system in higher education: An example from K university'
     year: '2021'
   6ZU8WIEAAAAJ:IjCSPb-OGe4C:
@@ -18,7 +18,7 @@ papers:
     title: 'Algorithms for college admissions decision support: Impacts of policy change and inherent variability'
     year: '2024'
   6ZU8WIEAAAAJ:UeHWp8X0CEIC:
-    citations: 53
+    citations: 57
     title: 'Large Language Models, Social Demography, and Hegemony: Comparing Authorship in Human and Synthetic Text'
     year: '2024'
   6ZU8WIEAAAAJ:W7OEmFMy1HYC:
@@ -26,7 +26,7 @@ papers:
     title: Ending affirmative action harms diversity without improving academic merit
     year: '2024'
   6ZU8WIEAAAAJ:Y0pCki6q_DkC:
-    citations: 88
+    citations: 100
     title: 'The life cycle of large language models in education: A framework for understanding sources of bias'
     year: '2024'
   6ZU8WIEAAAAJ:YsMSGLbcyi4C:
@@ -42,7 +42,7 @@ papers:
     title: 'AI Annotation Orchestration: Evaluating LLM verifiers to Improve the Quality of LLM Annotations in Learning Analytics'
     year: '2025'
   6ZU8WIEAAAAJ:qjMakFHDy7sC:
-    citations: 10
+    citations: 11
     title: Augmenting holistic review in university admission using natural language processing for essays and recommendation letters
     year: '2023'
   6ZU8WIEAAAAJ:u-x6o8ySG0sC:
