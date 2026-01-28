@@ -29,9 +29,9 @@ I'm a Ph.D. candidate in Information Science at Cornell University, advised by [
 
 My research examines sociotechnical systems in education. My goal is to develop and evaluate responsible AI that supports an equitable society where future generations can thrive safely.
 
-* Socio-technical alignment: I study how AI systems can be designed and evaluated to align with the social contexts and institutional norms in which they operate, examining the gap between technical capabilities and societal needs.\\
-* Societal impact of AI systems: I study how AI technologies reshape decision-making processes in high-stakes settings. I have been working on how college application essay writing is changing and its relationship with admissions outcomes across socioeconomic status.\\
-* AI agent evaluation and responsible deployment: I explore what current agents are good and bad at, and how we can improve them responsibly. I examine the potential capabilities of state-of-the-art AI models and develop frameworks for incorporating them into practice while maintaining accountability and addressing fairness concerns.\\
+* **Socio-technical alignment**: I study how AI systems can be designed and evaluated to align with the social contexts and institutional norms in which they operate, examining the gap between technical capabilities and societal needs.
+* **Societal impact of AI systems**: I study how AI technologies reshape decision-making processes in high-stakes settings. I have been working on how college application essay writing is changing and its relationship with admissions outcomes across socioeconomic status.
+* **AI agent evaluation and responsible deployment**: I explore what current agents are good and bad at, and how we can improve them responsibly. I examine the potential capabilities of state-of-the-art AI models and develop frameworks for incorporating them into practice while maintaining accountability and addressing fairness concerns.
 
 I'm also fortunate to collaborate with [National Tutoring Observatory](https://nationaltutoringobservatory.org){:target="_blank"}, and [AJ Alvero](https://ajalvero.com){:target="_blank"}.   
 
