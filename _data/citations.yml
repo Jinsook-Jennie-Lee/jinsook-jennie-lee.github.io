@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-01-21'
+  last_updated: '2026-01-30'
 papers:
   6ZU8WIEAAAAJ:2osOgNQ5qMEC:
     citations: 4
@@ -18,19 +18,23 @@ papers:
     title: 'Algorithms for college admissions decision support: Impacts of policy change and inherent variability'
     year: '2024'
   6ZU8WIEAAAAJ:UeHWp8X0CEIC:
-    citations: 57
+    citations: 58
     title: 'Large Language Models, Social Demography, and Hegemony: Comparing Authorship in Human and Synthetic Text'
     year: '2024'
   6ZU8WIEAAAAJ:W7OEmFMy1HYC:
-    citations: 4
+    citations: 5
     title: Ending affirmative action harms diversity without improving academic merit
     year: '2024'
+  6ZU8WIEAAAAJ:WF5omc3nYNoC:
+    citations: 0
+    title: 'Codebook-Injected Dialogue Segmentation for Multi-Utterance Constructs Annotation: LLM-Assisted and Gold-Label-Free Evaluation'
+    year: '2026'
   6ZU8WIEAAAAJ:Y0pCki6q_DkC:
-    citations: 100
+    citations: 104
     title: 'The life cycle of large language models in education: A framework for understanding sources of bias'
     year: '2024'
   6ZU8WIEAAAAJ:YsMSGLbcyi4C:
-    citations: 7
+    citations: 8
     title: 'Poor alignment and steerability of large language models: Evidence from college admission essays'
     year: '2025'
   6ZU8WIEAAAAJ:d1gkVwhDpl0C:
@@ -38,11 +42,11 @@ papers:
     title: "\uAD6D\uB0B4 \uC758\uB958 \uC5ED\uBB3C\uB958 \uC2DC\uC2A4\uD15C\uC5D0 \uAD00\uD55C \uD0D0\uC0C9\uC801 \uC5F0\uAD6C"
     year: '2019'
   6ZU8WIEAAAAJ:eQOLeE2rZwMC:
-    citations: 0
+    citations: 1
     title: 'AI Annotation Orchestration: Evaluating LLM verifiers to Improve the Quality of LLM Annotations in Learning Analytics'
     year: '2025'
   6ZU8WIEAAAAJ:qjMakFHDy7sC:
-    citations: 11
+    citations: 13
     title: Augmenting holistic review in university admission using natural language processing for essays and recommendation letters
     year: '2023'
   6ZU8WIEAAAAJ:u-x6o8ySG0sC:
