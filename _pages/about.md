@@ -34,7 +34,7 @@ My research examines sociotechnical systems in education. My goal is to develop 
     <div class="card" style="background-color: transparent; border: 1px solid var(--global-divider-color);">
       <div class="card-body p-3">
         <h5 class="card-title" style="font-size: 1.1rem;">Socio-technical alignment</h5>
-        <p class="card-text">I study how AI systems can be evaluated and designed to align with the social contexts and institutional norms in which they operate, examining the gap between technical capabilities and societal needs.</p>
+        <p class="card-text">I study how AI systems can be evaluated to align with the social contexts and institutional norms in which they operate, examining the gap between technical capabilities and societal needs.</p>
       </div>
     </div>
   </div>
