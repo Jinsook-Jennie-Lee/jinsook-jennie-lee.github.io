@@ -49,8 +49,8 @@ My research examines sociotechnical systems in education. My goal is to develop 
   <div class="col-12 mb-2">
     <div class="card" style="background-color: transparent; border: 1px solid var(--global-divider-color);">
       <div class="card-body p-3">
-        <h5 class="card-title" style="font-size: 1.1rem;">AI agent evaluation and responsible deployment</h5>
-        <p class="card-text">I explore what current agents are good and bad at, and how we can improve them responsibly. I examine the potential capabilities of state-of-the-art AI models and develop frameworks for incorporating them into practice.</p>
+        <h5 class="card-title" style="font-size: 1.1rem;">AI evaluation and responsible deployment</h5>
+        <p class="card-text">I explore what current LLMs are good and bad at, and how we can improve them responsibly. I examine the potential capabilities of state-of-the-art AI models and develop frameworks for incorporating them into practice.</p>
       </div>
     </div>
   </div>
