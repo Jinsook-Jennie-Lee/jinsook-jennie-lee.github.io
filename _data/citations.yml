@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-03-30'
+  last_updated: '2026-04-17'
 papers:
   6ZU8WIEAAAAJ:2osOgNQ5qMEC:
     citations: 4
@@ -14,15 +14,15 @@ papers:
     title: 'Fairness hub technical briefs: AUC gap'
     year: '2023'
   6ZU8WIEAAAAJ:LkGwnXOMwfcC:
-    citations: 0
+    citations: 1
     title: 'The Digital Divide in Generative AI: Evidence from Large Language Model Use in College Admissions Essays'
     year: '2026'
   6ZU8WIEAAAAJ:Tyk-4Ss8FVUC:
-    citations: 11
+    citations: 12
     title: 'Algorithms for college admissions decision support: Impacts of policy change and inherent variability'
     year: '2024'
   6ZU8WIEAAAAJ:UeHWp8X0CEIC:
-    citations: 65
+    citations: 68
     title: 'Large Language Models, Social Demography, and Hegemony: Comparing Authorship in Human and Synthetic Text'
     year: '2024'
   6ZU8WIEAAAAJ:W7OEmFMy1HYC:
@@ -34,11 +34,11 @@ papers:
     title: 'Codebook-Injected Dialogue Segmentation for Multi-Utterance Constructs Annotation: LLM-Assisted and Gold-Label-Free Evaluation'
     year: '2026'
   6ZU8WIEAAAAJ:Y0pCki6q_DkC:
-    citations: 123
+    citations: 126
     title: 'The life cycle of large language models in education: A framework for understanding sources of bias'
     year: '2024'
   6ZU8WIEAAAAJ:YsMSGLbcyi4C:
-    citations: 10
+    citations: 11
     title: 'Poor alignment and steerability of large language models: Evidence from college admission essays'
     year: '2025'
   6ZU8WIEAAAAJ:_FxGoFyzp5QC:
@@ -50,13 +50,17 @@ papers:
     title: "\uAD6D\uB0B4 \uC758\uB958 \uC5ED\uBB3C\uB958 \uC2DC\uC2A4\uD15C\uC5D0 \uAD00\uD55C \uD0D0\uC0C9\uC801 \uC5F0\uAD6C"
     year: '2019'
   6ZU8WIEAAAAJ:eQOLeE2rZwMC:
-    citations: 1
+    citations: 3
     title: 'AI Annotation Orchestration: Evaluating LLM verifiers to Improve the Quality of LLM Annotations in Learning Analytics'
     year: '2025'
   6ZU8WIEAAAAJ:qjMakFHDy7sC:
     citations: 13
     title: Augmenting holistic review in university admission using natural language processing for essays and recommendation letters
     year: '2023'
+  6ZU8WIEAAAAJ:roLk4NBRz8UC:
+    citations: 0
+    title: Domain-Adapted Retrieval for In-Context Annotation of Pedagogical Dialogue Acts
+    year: '2026'
   6ZU8WIEAAAAJ:u-x6o8ySG0sC:
     citations: 9
     title: Early prediction model of student performance based on deep neural network using massive LMS log data
@@ -66,6 +70,6 @@ papers:
     title: An exploratory study of Korean reverse logistics system for clothing
     year: '2019'
   6ZU8WIEAAAAJ:ufrVoPGSRksC:
-    citations: 1
+    citations: 2
     title: 'LLM Reasoning Predicts When Models Are Right: Evidence from Coding Classroom Discourse'
     year: '2026'
