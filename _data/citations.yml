@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-04-17'
+  last_updated: '2026-04-22'
 papers:
   6ZU8WIEAAAAJ:2osOgNQ5qMEC:
     citations: 4
@@ -22,7 +22,7 @@ papers:
     title: 'Algorithms for college admissions decision support: Impacts of policy change and inherent variability'
     year: '2024'
   6ZU8WIEAAAAJ:UeHWp8X0CEIC:
-    citations: 68
+    citations: 69
     title: 'Large Language Models, Social Demography, and Hegemony: Comparing Authorship in Human and Synthetic Text'
     year: '2024'
   6ZU8WIEAAAAJ:W7OEmFMy1HYC:
@@ -34,7 +34,7 @@ papers:
     title: 'Codebook-Injected Dialogue Segmentation for Multi-Utterance Constructs Annotation: LLM-Assisted and Gold-Label-Free Evaluation'
     year: '2026'
   6ZU8WIEAAAAJ:Y0pCki6q_DkC:
-    citations: 126
+    citations: 128
     title: 'The life cycle of large language models in education: A framework for understanding sources of bias'
     year: '2024'
   6ZU8WIEAAAAJ:YsMSGLbcyi4C:
