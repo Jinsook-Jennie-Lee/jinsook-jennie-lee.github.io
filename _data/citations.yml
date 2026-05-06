@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-04-22'
+  last_updated: '2026-05-06'
 papers:
   6ZU8WIEAAAAJ:2osOgNQ5qMEC:
     citations: 4
@@ -14,15 +14,15 @@ papers:
     title: 'Fairness hub technical briefs: AUC gap'
     year: '2023'
   6ZU8WIEAAAAJ:LkGwnXOMwfcC:
-    citations: 1
-    title: 'The Digital Divide in Generative AI: Evidence from Large Language Model Use in College Admissions Essays'
+    citations: 2
+    title: 'The digital divide in generative ai: Evidence from large language model use in college admissions essays'
     year: '2026'
   6ZU8WIEAAAAJ:Tyk-4Ss8FVUC:
     citations: 12
     title: 'Algorithms for college admissions decision support: Impacts of policy change and inherent variability'
     year: '2024'
   6ZU8WIEAAAAJ:UeHWp8X0CEIC:
-    citations: 69
+    citations: 73
     title: 'Large Language Models, Social Demography, and Hegemony: Comparing Authorship in Human and Synthetic Text'
     year: '2024'
   6ZU8WIEAAAAJ:W7OEmFMy1HYC:
@@ -34,11 +34,11 @@ papers:
     title: 'Codebook-Injected Dialogue Segmentation for Multi-Utterance Constructs Annotation: LLM-Assisted and Gold-Label-Free Evaluation'
     year: '2026'
   6ZU8WIEAAAAJ:Y0pCki6q_DkC:
-    citations: 128
+    citations: 129
     title: 'The life cycle of large language models in education: A framework for understanding sources of bias'
     year: '2024'
   6ZU8WIEAAAAJ:YsMSGLbcyi4C:
-    citations: 11
+    citations: 12
     title: 'Poor alignment and steerability of large language models: Evidence from college admission essays'
     year: '2025'
   6ZU8WIEAAAAJ:_FxGoFyzp5QC:
@@ -51,8 +51,8 @@ papers:
     year: '2019'
   6ZU8WIEAAAAJ:eQOLeE2rZwMC:
     citations: 3
-    title: 'AI Annotation Orchestration: Evaluating LLM verifiers to Improve the Quality of LLM Annotations in Learning Analytics'
-    year: '2025'
+    title: 'Ai annotation orchestration: Evaluating llm verifiers to improve the quality of llm annotations in learning analytics'
+    year: '2026'
   6ZU8WIEAAAAJ:qjMakFHDy7sC:
     citations: 13
     title: Augmenting holistic review in university admission using natural language processing for essays and recommendation letters
@@ -62,7 +62,7 @@ papers:
     title: Domain-Adapted Retrieval for In-Context Annotation of Pedagogical Dialogue Acts
     year: '2026'
   6ZU8WIEAAAAJ:u-x6o8ySG0sC:
-    citations: 9
+    citations: 10
     title: Early prediction model of student performance based on deep neural network using massive LMS log data
     year: '2021'
   6ZU8WIEAAAAJ:u5HHmVD_uO8C:
