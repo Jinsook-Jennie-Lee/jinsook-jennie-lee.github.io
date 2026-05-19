@@ -15,67 +15,122 @@ layout: default
   </header>
 
   <article>
-    {% if page.profile %}
-      <div class="profile float-{% if page.profile.align == 'left' %}left{% else %}right{% endif %}">
-        {% if page.profile.image %}
-          {% assign profile_image_path = page.profile.image | prepend: 'assets/img/' %}
-          {% if page.profile.image_circular %}
-            {% assign profile_image_class = 'img-fluid z-depth-1 rounded-circle' %}
-          {% else %}
-            {% assign profile_image_class = 'img-fluid z-depth-1
-      rounded' %}
-          {% endif %}
-          {% capture sizes %}(min-width: {{ site.max_width }}) {{ site.max_width | minus: 30 | times: 0.3}}px, (min-width: 576px)
-      30vw, 95vw"{% endcapture %}
-          {%
-            include figure.liquid loading="eager" path=profile_image_path class=profile_image_class sizes=sizes alt=page.profile.image
-            cache_bust=true
-          %}
+    <div class="about-grid">
+
+      <div class="about-main">
+        {{ content }}
+
+        <!-- Selected papers -->
+        {% if page.selected_papers %}
+          <h2>
+            <a href="{{ '/publications/' | relative_url }}" style="color: inherit">selected publications</a>
+          </h2>
+          {% include selected_papers.liquid %}
         {% endif %}
-        {% if page.profile.more_info %}
-          <div class="more-info">{{ page.profile.more_info }}</div>
+
+        <!-- Latest posts -->
+        {% if page.latest_posts and page.latest_posts.enabled %}
+          <h2>
+            <a href="{{ '/blog/' | relative_url }}" style="color: inherit">latest posts</a>
+          </h2>
+          {% include latest_posts.liquid %}
+        {% endif %}
+
+        <!-- Social -->
+        {% if page.social %}
+          <div class="social">
+            <div class="contact-icons">{% include social.liquid %}</div>
+            <div class="contact-note">{{ site.contact_note }}</div>
+          </div>
+        {% endif %}
+
+        {% if site.newsletter and site.newsletter.enabled and site.footer_fixed %}
+          {% include newsletter.liquid center=true %}
         {% endif %}
       </div>
-    {% endif %}
 
-    <div class="clearfix">{{ content }}</div>
+      <aside class="about-aside">
+        <!-- News -->
+        {% if page.announcements and page.announcements.enabled %}
+          <h2 class="aside-heading">
+            <a href="{{ '/news/' | relative_url }}" style="color: inherit">news</a>
+          </h2>
+          {% include news.liquid limit=true %}
+        {% endif %}
+      </aside>
 
-    <!-- News -->
-    {% if page.announcements and page.announcements.enabled %}
-      <h2>
-        <a href="{{ '/news/' | relative_url }}" style="color: inherit">news</a>
-      </h2>
-      {% include news.liquid limit=true %}
-      <div style="margin-bottom: 3rem;"></div>
-    {% endif %}
-
-    <!-- Latest posts -->
-    {% if page.latest_posts and page.latest_posts.enabled %}
-      <h2>
-        <a href="{{ '/blog/' | relative_url }}" style="color: inherit">latest posts</a>
-      </h2>
-      {% include latest_posts.liquid %}
-    {% endif %}
-
-    <!-- Selected papers -->
-    {% if page.selected_papers %}
-      <h2>
-        <a href="{{ '/publications/' | relative_url }}" style="color: inherit">selected publications</a>
-      </h2>
-      {% include selected_papers.liquid %}
-    {% endif %}
-
-    <!-- Social -->
-    {% if page.social %}
-      <div class="social">
-        <div class="contact-icons">{% include social.liquid %}</div>
-
-        <div class="contact-note">{{ site.contact_note }}</div>
-      </div>
-    {% endif %}
-
-    {% if site.newsletter and site.newsletter.enabled and site.footer_fixed %}
-      {% include newsletter.liquid center=true %}
-    {% endif %}
+    </div>
   </article>
 </div>
+
+<style>
+.about-grid {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) 320px;
+  gap: 3.5rem;
+  align-items: start;
+}
+.about-aside {
+  position: sticky;
+  top: 90px;
+  padding-left: 2rem;
+  border-left: 1px solid var(--global-divider-color);
+}
+.bio-row {
+  display: flex;
+  gap: 1.5rem;
+  align-items: flex-start;
+  margin-bottom: 1.25rem;
+}
+.bio-photo { flex: 0 0 180px; }
+.bio-photo img { width: 100%; height: auto; display: block; }
+.bio-text { flex: 1; min-width: 0; }
+.bio-text p { margin-bottom: 0.75rem; }
+.bio-text p:last-child { margin-bottom: 0; }
+.about-main h2 {
+  margin-top: 1.25rem;
+  clear: none;
+}
+@media (max-width: 576px) {
+  .bio-row { flex-direction: column; }
+  .bio-photo { flex: 0 0 auto; width: 60%; }
+}
+.about-aside .aside-heading {
+  margin-top: 0.5rem;
+}
+.about-aside .news table,
+.about-aside .news tbody,
+.about-aside .news tr,
+.about-aside .news th,
+.about-aside .news td {
+  display: block;
+  width: auto;
+  padding: 0;
+  border: none;
+}
+.about-aside .news tr {
+  margin-bottom: 0.9rem;
+}
+.about-aside .news th {
+  font-weight: 600;
+  font-size: 0.75rem;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  color: var(--global-text-color-light);
+  margin-bottom: 0.15rem;
+  white-space: nowrap;
+}
+.about-aside .news td {
+  font-size: 0.85rem;
+  line-height: 1.45;
+}
+@media (max-width: 992px) {
+  .about-grid {
+    grid-template-columns: 1fr;
+    gap: 1.5rem;
+  }
+  .about-aside {
+    position: static;
+  }
+}
+</style>

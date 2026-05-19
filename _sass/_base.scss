@@ -4,6 +4,20 @@
 
 // Typography
 
+body {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-size: 16px;
+  line-height: 1.55;
+}
+
+h1, h2, h3, h4, h5, h6,
+.post-title,
+.nav-link,
+.contact-icons,
+.research-title {
+  font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
 p,
 h1,
 h2,
