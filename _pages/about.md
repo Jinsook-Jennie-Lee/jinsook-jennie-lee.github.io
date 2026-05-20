@@ -49,7 +49,7 @@ My research examines sociotechnical systems in education. My goal is to develop 
     <div class="research-thumb"><img src="{{ '/assets/img/digital_divide_thumbnail.png' | relative_url }}" alt="LLM usage by SES bar chart"></div>
     <div class="research-body">
       <div class="research-title">College Admissions and AI &amp; Policy</div>
-      <p class="research-desc">I study how AI is reshaping the U.S. higher education system through a diversity and equity perspective. I examine (1) how post-SFFA policy has influenced diversity and arbitrariness in machine-learning-driven decisions, and (2) the equity implications of generative AI in admissions, comparing pre- and post-GPT application essays across socio-economic groups. I ask what now counts as an "admissible" essay.</p>
+      <p class="research-desc">I study how AI is reshaping the U.S. higher education system through diversity and equity perspectives. I examine (1) how post-SFFA policy has influenced diversity and arbitrariness in machine-driven decisions, and (2) the equity implications of generative AI in admissions, comparing pre- and post-GPT application essays across socio-economic groups. I ask what now counts as an "admissible" identity representation, how AI reshapes it, which populations become vulnerable, and ultimately what human values institutions should look for.</p>
       <p class="research-meta">
         <span class="meta-label">papers</span>
         <a href="{{ '/publications/#lee2026algorithmicVoices' | relative_url }}">The Digital Divide in Generative AI</a> · <a href="{{ '/publications/#lee2024affirmativeaction' | relative_url }}">Ending Affirmative Action Harms Diversity Without Improving Academic Merit</a>
