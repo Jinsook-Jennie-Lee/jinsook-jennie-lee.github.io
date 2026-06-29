@@ -15,6 +15,10 @@ Email: jl3369@cornell.edu | Website: https://Jinsook-Jennie-Lee.github.io | GitH
 - Developed course and major recommender systems to support college students' decision-making processes.
 
 ## Selected Publications
+- **The Digital Divide in Generative AI: Evidence from Large Language Model Use in College Admissions Essays**
+  *Lee, J., Borchers, C., Alvero, A., Joachims, T., & Kizilcec, R. F.*
+  Proceedings of the Learning at Scale Conference (L@S2026), 2026.
+
 - **AI Annotation Orchestration: Evaluating LLM Verifiers to Improve the Quality of LLM Annotations in Learning Analytics**
   *Ahtisham, B., Vanacore, K., Lee, J., Zhou, Z., Pietrzak, D., & Kizilcec, R. F.*
   Proceedings of the Learning Analytics and Knowledge Conference (LAK26), 2026.
