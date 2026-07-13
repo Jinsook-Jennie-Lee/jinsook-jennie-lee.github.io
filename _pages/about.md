@@ -46,17 +46,13 @@ My research examines sociotechnical systems in education. My goal is to develop 
 <div class="research-list">
 
   <div class="research-item">
-    <div class="research-thumb"><img src="{{ '/assets/img/digital_divide_thumbnail.png' | relative_url }}" alt="LLM usage by SES bar chart"></div>
+    <div class="research-thumb"><img src="{{ '/assets/img/social-life.png' | relative_url }}" alt="Relational skills icon"></div>
     <div class="research-body">
-      <div class="research-title">College Admissions and AI &amp; Policy</div>
-      <p class="research-desc">I study how AI is reshaping the U.S. higher education system through diversity and equity perspectives. I examine (1) how post-SFFA policy has influenced diversity and arbitrariness in machine-driven decisions, and (2) the equity implications of generative AI in admissions, comparing pre- and post-GPT application essays across socio-economic groups. I ask what now counts as an "admissible" identity representation, how AI reshapes it, which populations become vulnerable, and ultimately what human values institutions should look for.</p>
+      <div class="research-title">AI-ready Workforce Initiative</div>
+      <p class="research-desc">I explore whether we can steer conversational agents to evaluate AI/Relational fluency that are hard to discover from text-based applications in workforce contexts. I focus on running RCTs, and capturing signals in simulated dialogue situations, and identifying which signals are most predictive of later performance.</p>
       <p class="research-meta">
-        <span class="meta-label">papers</span>
-        <a href="{{ '/publications/#lee2026algorithmicVoices' | relative_url }}">The Digital Divide in Generative AI</a> · <a href="{{ '/publications/#lee2024affirmativeaction' | relative_url }}">Ending Affirmative Action Harms Diversity Without Improving Academic Merit</a>
-      </p>
-      <p class="research-meta">
-        <span class="meta-label">press</span>
-        <a href="https://www.insidehighered.com/news/admissions/traditional-age/2026/05/08/study-explores-ai-written-admissions-essays" target="_blank">Inside Higher Ed</a> · <a href="https://news.cornell.edu/stories/2024/11/race-blind-college-admissions-harm-diversity-without-improving-quality" target="_blank">Cornell Chronicle, 2024</a> · <a href="https://news.cornell.edu/stories/2025/09/ai-can-write-your-college-essay-it-wont-sound-you" target="_blank">Cornell Chronicle, 2025</a>
+        <span class="meta-label">support</span>
+        <a href="https://www.laude.org/moonshots" target="_blank">Laude Institute Moonshots</a>
       </p>
     </div>
   </div>
@@ -78,13 +74,17 @@ My research examines sociotechnical systems in education. My goal is to develop 
   </div>
 
   <div class="research-item">
-    <div class="research-thumb"><img src="{{ '/assets/img/social-life.png' | relative_url }}" alt="Relational skills icon"></div>
+    <div class="research-thumb"><img src="{{ '/assets/img/digital_divide_thumbnail.png' | relative_url }}" alt="LLM usage by SES bar chart"></div>
     <div class="research-body">
-      <div class="research-title">Measuring Relational Skills with AI Agents in hiring/workforce</div>
-      <p class="research-desc">I explore whether we can steer conversational agents to evaluate relational skills that are hard to discover from text-based applications in hiring and workforce contexts. I focus on capturing signals in simulated dialogue situations that require relational skills, and identifying which signals are most predictive of later performance.</p>
+      <div class="research-title">College Admissions, AI and Societal Impact</div>
+      <p class="research-desc">I study how AI is reshaping the U.S. higher education system through diversity and equity perspectives. I examine (1) how post-SFFA policy has influenced diversity and arbitrariness in machine-driven decisions, and (2) the equity implications of generative AI in admissions, comparing pre- and post-GPT application essays across socio-economic groups. I ask what now counts as an "admissible" identity representation, how AI reshapes it, which populations become vulnerable, and ultimately what human values institutions should look for.</p>
       <p class="research-meta">
-        <span class="meta-label">support</span>
-        <a href="https://www.laude.org/moonshots" target="_blank">Laude Institute Moonshots</a>
+        <span class="meta-label">papers</span>
+        <a href="{{ '/publications/#lee2026algorithmicVoices' | relative_url }}">The Digital Divide in Generative AI</a> · <a href="{{ '/publications/#lee2024affirmativeaction' | relative_url }}">Ending Affirmative Action Harms Diversity Without Improving Academic Merit</a>
+      </p>
+      <p class="research-meta">
+        <span class="meta-label">press</span>
+        <a href="https://www.insidehighered.com/news/admissions/traditional-age/2026/05/08/study-explores-ai-written-admissions-essays" target="_blank">Inside Higher Ed</a> · <a href="https://news.cornell.edu/stories/2024/11/race-blind-college-admissions-harm-diversity-without-improving-quality" target="_blank">Cornell Chronicle, 2024</a> · <a href="https://news.cornell.edu/stories/2025/09/ai-can-write-your-college-essay-it-wont-sound-you" target="_blank">Cornell Chronicle, 2025</a>
       </p>
     </div>
   </div>
