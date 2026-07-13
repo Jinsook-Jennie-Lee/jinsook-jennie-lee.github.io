@@ -41,6 +41,55 @@ My research examines sociotechnical systems in education. My goal is to develop 
 
 </div>
 
+<div class="job-market-banner">
+  <p class="jm-headline">📢 I'm on the job market!</p>
+  <p class="jm-text">I'm actively seeking industry and academic positions where I can put AI + Education research into practice. I bring research topics that I'm excited to pursue: socio-technical systems in education, the impact of AI on learning, teaching, and evaluation/assessment, discovering what AI can do to measure human capabilities that matter. If any of this resonates, let's connect! <a class="jm-link" href="mailto:jl3369@cornell.edu">[Email]</a> <a class="jm-link" href="https://www.linkedin.com/in/jinsook-jennie-lee" target="_blank" rel="noopener">[LinkedIn]</a></p>
+</div>
+
+<style>
+.job-market-banner {
+  position: relative;
+  margin: 1.5rem 0 2.5rem;
+  padding: 1.25rem 1.5rem;
+  border-radius: 10px;
+  background: transparent;
+  border: 1.5px solid #ff7300;
+  overflow: hidden;
+}
+.jm-badge {
+  display: inline-block;
+  font-size: 0.72rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: #fff;
+  background: #ff7300;
+  border: 1.5px solid #ff7300;
+  padding: 0.28rem 0.6rem;
+  border-radius: 3px;
+  margin-bottom: 0.6rem;
+}
+.jm-headline {
+  font-size: 1.05rem;
+  font-weight: 700;
+  color: #ff7300;
+  margin: 0 0 0.4rem;
+  line-height: 1.4;
+}
+.jm-text {
+  font-size: 0.97rem;
+  line-height: 1.55;
+  margin: 0;
+  color: var(--global-text-color);
+}
+.jm-link {
+  color: #ff7300;
+  text-decoration: none;
+  white-space: nowrap;
+}
+.jm-link:hover { text-decoration: underline; }
+</style>
+
 ## research
 
 <div class="research-list">
