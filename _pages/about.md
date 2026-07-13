@@ -43,7 +43,7 @@ My research examines sociotechnical systems in education. My goal is to develop 
 
 <div class="job-market-banner">
   <p class="jm-headline">📢 I'm on the job market!</p>
-  <p class="jm-text">I'm actively seeking industry and academic positions where I can put AI + Education research into practice. I bring research topics that I'm excited to pursue: socio-technical systems in education, the impact of AI on learning, teaching, and evaluation/assessment, discovering what AI can do to measure human capabilities that matter. If any of this resonates, let's connect! <a class="jm-link" href="mailto:jl3369@cornell.edu">[Email]</a> <a class="jm-link" href="https://www.linkedin.com/in/jinsook-jennie-lee" target="_blank" rel="noopener">[LinkedIn]</a></p>
+  <p class="jm-text">I'm actively seeking industry and academic positions where I can put AI + Education research into practice. I bring research topics that I'm excited to pursue: socio-technical systems in education; the impact of AI on learning, teaching, and evaluation/assessment; and discovering what AI can do to measure human capabilities that matter. If any of this resonates, let's connect! <a class="jm-link" href="mailto:jl3369@cornell.edu">[Email]</a> <a class="jm-link" href="https://www.linkedin.com/in/jinsook-jennie-lee" target="_blank" rel="noopener">[LinkedIn]</a></p>
 </div>
 
 <style>
