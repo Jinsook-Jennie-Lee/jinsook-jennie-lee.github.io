@@ -133,7 +133,7 @@ My research examines sociotechnical systems in education. My goal is to develop 
       </p>
       <p class="research-meta">
         <span class="meta-label">press</span>
-        <a href="https://www.insidehighered.com/news/admissions/traditional-age/2026/05/08/study-explores-ai-written-admissions-essays" target="_blank">Inside Higher Ed</a> · <a href="https://news.cornell.edu/stories/2024/11/race-blind-college-admissions-harm-diversity-without-improving-quality" target="_blank">Cornell Chronicle, 2024</a> · <a href="https://news.cornell.edu/stories/2025/09/ai-can-write-your-college-essay-it-wont-sound-you" target="_blank">Cornell Chronicle, 2025</a>
+        <a href="https://www.nbcnews.com/tech/tech-news/college-essays-ai-admissions-rcna591688" target="_blank">NBC News</a> · <a href="https://www.insidehighered.com/news/admissions/traditional-age/2026/05/08/study-explores-ai-written-admissions-essays" target="_blank">Inside Higher Ed</a> · <a href="https://news.cornell.edu/stories/2024/11/race-blind-college-admissions-harm-diversity-without-improving-quality" target="_blank">Cornell Chronicle, 2024</a> · <a href="https://news.cornell.edu/stories/2025/09/ai-can-write-your-college-essay-it-wont-sound-you" target="_blank">Cornell Chronicle, 2025</a>
       </p>
     </div>
   </div>
