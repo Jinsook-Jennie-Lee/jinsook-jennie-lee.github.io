@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I'm starting a Student Researcher position at [Google](https://research.google/){:target="_blank"}, hosted by Dharti Dhami! 🔍
+I'm starting a Student Researcher position at [Google Research](https://research.google/){:target="_blank"}, hosted by Dharti Dhami! 🔍
