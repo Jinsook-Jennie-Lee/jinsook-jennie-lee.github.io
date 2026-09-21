@@ -33,7 +33,9 @@ latest_posts:
 
 <div class="bio-text" markdown="1">
 
-I'm a Ph.D. candidate in Information Science at Cornell University. I'm co-advised by [René F. Kizilcec](https://rene.kizilcec.com){:target="_blank"} in the [Future of Learning Lab](https://learning.cis.cornell.edu/){:target="_blank"} and [Thorsten Joachims](https://www.cs.cornell.edu/people/tj){:target="_blank"}, with [Nikhil Garg](https://gargnikhil.com){:target="_blank"} on the committee. I'm also fortunate to collaborate with [National Tutoring Observatory](https://nationaltutoringobservatory.org){:target="_blank"}, and [AJ Alvero](https://ajalvero.com){:target="_blank"}.
+I'm a Ph.D. candidate in Information Science at Cornell University. I'm co-advised by [René F. Kizilcec](https://rene.kizilcec.com){:target="_blank"} in the [Future of Learning Lab](https://learning.cis.cornell.edu/){:target="_blank"} and [Thorsten Joachims](https://www.cs.cornell.edu/people/tj){:target="_blank"}, with [Nikhil Garg](https://gargnikhil.com){:target="_blank"} on the committee. I'm fortunate to collaborate with [National Tutoring Observatory](https://nationaltutoringobservatory.org){:target="_blank"}, and [AJ Alvero](https://ajalvero.com){:target="_blank"}.
+
+I'm also incredibly grateful to work as a Student Researcher at [Google Research](https://research.google/){:target="_blank"}, hosted by Dharti Dhami.
 
 My research examines sociotechnical systems in education. My goal is to develop and evaluate responsible AI that supports an equitable society where future generations can thrive safely.
 
